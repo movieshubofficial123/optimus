@@ -49,11 +49,11 @@ class Translation(object):
 <b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>@cinehub01</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Optimus_Prime11">👤꧁༒O℘t̶i̶m̶u̶ຮ Pℜιᙢ∑⃝༒꧂</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/AbinCr">👤ミ★ 𝘢𝘣𝘪𝘯 ★彡</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
