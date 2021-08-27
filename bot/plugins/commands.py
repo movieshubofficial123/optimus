@@ -87,7 +87,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Optimus_Prime11"
                                 )
                         ]
                     ]
@@ -106,7 +106,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Optimus_Prime11"
                                 )
                         ]
                     ]
@@ -164,10 +164,10 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 Mrk YT👤', url='https://t.me/MRK_YT'),
-        InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+        InlineKeyboardButton('👤 OWNER👤', url='https://t.me/Optimus_Prime11'),
+        InlineKeyboardButton('EDITER👤', url='https://t.me/AbibCr')
     ],[
-        InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
+        InlineKeyboardButton('�💫�', url='https://t.me/AbinCr')
     ],[
         InlineKeyboardButton('🏠 Home', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
